@@ -12,8 +12,8 @@
 Para dar un buen funcionamiento a la aplicación móvil
 debemos seguir los siguientes pasos.
 
-### Instalar la aplicación móvil.
-### Abrir la aplicación
+###### Instalar la aplicación móvil.
+###### Abrir la aplicación
 ### Iniciar sesión con las siguientes credenciales:
 * Usuario: desarrollo_110022
 * Contraseña: desarrollo_110022
