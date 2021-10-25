@@ -12,12 +12,12 @@
 Para dar un buen funcionamiento a la aplicación móvil
 debemos seguir los siguientes pasos.
 
-###### Instalar la aplicación móvil.
-###### Abrir la aplicación
-### Iniciar sesión con las siguientes credenciales:
+1. Instalar la aplicación móvil.
+2. Abrir la aplicación
+3. Iniciar sesión con las siguientes credenciales:
 * Usuario: desarrollo_110022
 * Contraseña: desarrollo_110022
-### Si las credenciales son correctas, se abre una nueva vista con una caja de busqueda donde a través del codigo de referencia podemos buscar los productos.
+4. Si las credenciales son correctas, se abre una nueva vista con una caja de busqueda donde a través del codigo de referencia podemos buscar los productos.
 
 ### Si el codigo de referencia no existe se muestra una imagen con un mensaje, notificando que no se encontraron resultados para esa busqueda.
 
