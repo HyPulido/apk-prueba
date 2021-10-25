@@ -2,12 +2,12 @@
 ***
 
 ## Requisitos para el uso de la aplicación movil
-***
 
-### Acceso a internet
+
+*### Acceso a internet
 
 ## Instrucciones de uso
-***
+
 
 Para dar un buen funcionamiento a la aplicación móvil
 debemos seguir los siguientes pasos.
