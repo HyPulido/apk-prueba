@@ -4,7 +4,7 @@
 ## Requisitos para el uso de la aplicación movil
 
 
-*### Acceso a internet
+### Acceso a internet
 
 ## Instrucciones de uso
 
