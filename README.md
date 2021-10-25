@@ -4,6 +4,7 @@
 ## Requisitos para el uso de la aplicación movil
 
 1. Acceso a internet
+2. Android versión 6.0 o mayor.
 
 ## Instrucciones de uso
 
